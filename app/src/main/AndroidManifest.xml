@@ -24,6 +24,10 @@
         <activity android:name=".Gid"></activity>
         <activity android:name=".Near"></activity>
         <activity android:name=".ReadyPaths"></activity>
+        <activity android:name=".DetailsHermitage"></activity>
+        <activity android:name=".DetailsIsaak"></activity>
+        <activity android:name=".DetailsAleks"></activity>
+        <activity android:name=".Map"></activity>
     </application>
 
 </manifest>
